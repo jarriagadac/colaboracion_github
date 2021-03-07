@@ -11,6 +11,10 @@ PS > .\venv\Scripts\Activate.ps1
 (venv) PS > pip install -r requirements.txt
 ```
 
+### Consideraciones
+
+- Copiar archivo src/telegram_bot/.env-example a src/telegram_bot/.env e incluir credenciales bot Telegram
+
 ## Documentación
 
 - https://core.telegram.org/bots
